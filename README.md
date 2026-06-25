@@ -21,3 +21,11 @@ npm install camelcase-keys
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'camelcase-keys';
+// See API section for available functions
+```
